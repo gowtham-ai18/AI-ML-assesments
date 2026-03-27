@@ -1,14 +1,22 @@
-# AI-ML-assesments
-This repository showcases my hands-on work from an AI with Cloud Computing internship, covering Python programming, data analysis, machine learning models, and NLP techniques implemented using Jupyter Notebook.
-# AI with Cloud Computing Internship Assignments
+# AI & Machine Learning Assignments
 
-This repository contains all the assignments I completed during my AI with Cloud Computing internship.
+This repository contains all assignments completed during my AI with Cloud Computing internship.
 
 ## Topics Covered
 - Python Programming
-- Data Analysis
-- Machine Learning
-- NLP
+- Data Analysis (Pandas, NumPy)
+- Data Visualization
+- Machine Learning (Linear Regression, KNN, K-Means)
+- Natural Language Processing (Text Cleaning, Spam Detection)
+
+## Tools Used
+- Python
+- Jupyter Notebook
+- Scikit-learn
+- NLTK
+
+## Description
+These assignments helped me build a strong foundation in AI, Machine Learning, and data processing through hands-on practice.
 
 ## Author
 Gowtham
